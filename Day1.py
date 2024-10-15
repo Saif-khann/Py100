@@ -14,7 +14,8 @@
 # Note: Make sure the input cursor shows on a new line.
 
 # Example Output:
-# "Your band name could be: New York Fluffy"
+# Welcome to the Band Name Generator
+# Your band name could be: New York Fluffy
 
 # Code Starts here...
 
