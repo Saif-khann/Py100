@@ -1,3 +1,22 @@
+# 🐍 (Py100: 100 Days of Python Challenge)
+# Author: Saif Khan
+# ----------------------------------------------
+# Day 2 Project: Tip Calculator 💸
+# ----------------------------------------------
+# Create a simple tip calculator that helps users calculate how much each person should pay when splitting a bill.
+
+# Description:
+# 1. Greet the user and introduce the tip calculator program.
+# 2. Ask the user for the total bill amount and store it as a float.
+# 3. Ask the user how much tip percentage they would like to give (10%, 12%, or 15%) and store it as a float.
+# 4. Ask the user for the number of people sharing the bill and store it as an integer.
+# 5. Calculate the final amount each person needs to pay, including the tip.
+# 6. Display the result rounded to 2 decimal places.
+
+# Code starts here...
+
+
+
 # Welcome message for the Tip Calculator
 print("Welcome to the tip calculator!")
 
