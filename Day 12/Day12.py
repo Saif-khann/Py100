@@ -1,14 +1,16 @@
-# 🎲 (Py100: 100 Days of Python Challenge)
-# Author: Saif Khan
-
-# -------------------------------------------------------------
-# Day 12: Number Guessing Game
-# This program is a number guessing game where the player tries 
-# to guess a randomly chosen number between 1 and 100. The player 
-# selects a difficulty level, which determines the number of guesses 
-# allowed. After each guess, the program gives hints and tracks 
-# the remaining attempts until the player wins or runs out of attempts.
-# -------------------------------------------------------------
+'''
+🎲 (Py100: 100 Days of Python Challenge)
+Author: Saif Khan
+-----------------------------------
+Day 12: Number Guessing Game
+-----------------------------------
+This program is a number guessing game where the player tries 
+to guess a randomly chosen number between 1 and 100. The player 
+selects a difficulty level, which determines the number of guesses 
+allowed. After each guess, the program gives hints and tracks 
+the remaining attempts until the player wins or runs out of attempts.
+-------------------------------------------------------------
+'''
 
 from random import randint
 from art import logo
